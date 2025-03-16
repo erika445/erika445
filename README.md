@@ -33,19 +33,10 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Erika H">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Erika%20H&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp&unique={true|1|on|yes})
 ###
 
 <div align="left">
