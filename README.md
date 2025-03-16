@@ -34,9 +34,7 @@
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp&unique={true|1|on|yes})
+
 ###
 
 <div align="left">
