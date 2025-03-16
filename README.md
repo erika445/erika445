@@ -1,4 +1,11 @@
-<h1 align="left">Holaaa!!!</h1>
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/71/c5/ff/71c5ff07af70b970331bc1a75430c280.jpg"  />
+</div>
+
+###
+<h1 align="center">Holaaa!!!</h1>
 
 ###
 
@@ -33,9 +40,6 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp)
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -45,3 +49,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+
