@@ -1,15 +1,10 @@
-<br clear="both">
-
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/736x/71/c5/ff/71c5ff07af70b970331bc1a75430c280.jpg"  />
+  <img height="200" src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg"  />
 </div>
 
 ###
-<h1 align="center">Holaaa!!!</h1>
-
 ###
-
-<p align="left">Mi nombre es Erika y soy una estudiante universitaria</p>
+<h1 align="center">Holaaa!!!, Mi nombre es Erika y soy una estudiante universitaria</h1>
 
 ###
 
