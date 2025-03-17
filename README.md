@@ -1,57 +1,53 @@
+# システムアナリスト  
+
+## Be welcome! 🚀
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/9a/3b/3f/9a3b3fc0e1e02f7c0b9a3943775a9a5d.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true" />
+</div>
+
+### 🎨 Top Languages by Repo
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-<h1 align="center" style="color:#a855f7;">✨ Holaaa!!! ✨</h1>
-
-<p align="center" style="color:#c084fc; font-size:18px;">Mi nombre es Erika y soy una estudiante universitaria apasionada por la tecnología.</p>
-
----
-
-## 🚀 Sobre mí
-
-- 📚 Actualmente estoy aprendiendo sobre programación web.
-- 🎯 **Objetivos:**
-  - Aprender nuevas tecnologías.
-  - Hacer mis residencias profesionales.
-  - Graduarme con éxito.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
+### 🌐 Connect with me
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
 
-## 📊 Estadísticas
-
+### 🛠 Technologies & Tools
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,arduino,github,ps" />
 </div>
 
 ---
 
-## 🌐 Conéctate conmigo
-
+### 🏆 Achievements & Stats
 <div align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITS:&color=blue&style=flat-square" />
 </div>
 
 ---
+
+<p align="center">
+  <a href="#">🔹 Profile</a> • <a href="#">🔹 LinkedIn</a> • <a href="#">🔹 Carrd</a> • <a href="#">🔹 Notion</a>
+</p>
+
 
 ## 🎵 Lo que estoy escuchando ahora
 
