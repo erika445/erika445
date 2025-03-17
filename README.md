@@ -1,61 +1,65 @@
-# システムアナリスト  
-
-## Be welcome! 🚀
-
----
-
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true" />
+  <img height="200" src="https://camo.githubusercontent.com/9763bb20ee3fdf0376b7e7fac4a58b1c0b08d894c2e0aaa017911e8a7ae56d35/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d356361646330"  />
 </div>
 
-### 🎨 Top Languages by Repo
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" />
-</div>
+###
 
----
+<p align="center">システムアナリスト </p>
+<p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">Hola, mi nombre es Erika!</p>
 
-### 🌐 Connect with me
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+###
 
----
-
-### 🛠 Technologies & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,arduino,github,ps" />
-</div>
-
----
-
-### 🏆 Achievements & Stats
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITS:&color=blue&style=flat-square" />
-</div>
-
----
-
-<p align="center">
-  <a href="#">🔹 Profile</a> • <a href="#">🔹 LinkedIn</a> • <a href="#">🔹 Carrd</a> • <a href="#">🔹 Notion</a>
-</p>
-
-
-## 🎵 Lo que estoy escuchando ahora
+<h3 align="center">✨About me</h3>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lvx2g5wml7ma6or6x3cazsdmp&unique=true" alt="Spotify Now Playing" />
+  <img height="200" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
 </div>
 
----
+###
 
-<h3 align="center" style="color:#c084fc;">✨ ¡Gracias por visitar mi perfil! ✨</h3>
+<p align="left">📚 Actualmente estoy aprendiendo sobre programación web<br>🎯Objetivos: <br>   -Aprender<br>-Hacer mis residencias profesionales<br>-Graduarme</p>
+
+###
+
+<h3 align="center">💻Tecnologias</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+
+<h3 align="center">📧Redes sociales</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/a2e6c4dad18bff030988522e385cd06a8dc58ae0961d58b1c56ac1a06d61e1c4/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356361646330266865696768743d3130302673656374696f6e3d666f6f746572"  />
+</div>
+
+###
 
