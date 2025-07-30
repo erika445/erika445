@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo sobre programación web<br>🎯Objetivos: <br>   -Aprender<br>-Hacer mis residencias profesionales<br>-Graduarme</p>
+<p align="left">📚 Actualmente estoy aprendiendo sobre programación web<br>🎯Objetivos: <br>   -Aprender<br> /n -Hacer mis residencias profesionales<br>-Graduarme</p>
 
 ###
 
